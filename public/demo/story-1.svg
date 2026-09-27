@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="960" viewBox="0 0 540 960">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f58529"/><stop offset="1" stop-color="#dd2a7b"/></linearGradient></defs>
+<rect width="540" height="960" fill="url(#g)"/>
+<circle cx="270" cy="400" r="120" fill="#fff" fill-opacity=".18"/>
+<text x="270" y="415" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" fill="#fff" text-anchor="middle">Sunset</text>
+<text x="270" y="880" font-family="Arial,Helvetica,sans-serif" font-size="26" fill="#fff" fill-opacity=".85" text-anchor="middle">Demo story 1 of 4</text>
+</svg>

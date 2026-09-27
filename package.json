@@ -1,0 +1,14 @@
+{
+  "name": "story-viewer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Educational story viewer: static frontend + Netlify Functions backend.",
+  "scripts": {
+    "dev": "netlify dev",
+    "deploy": "netlify deploy --prod"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
